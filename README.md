@@ -286,6 +286,7 @@ The application will open automatically in your browser.
 
 ## 🌐 KG Visualizer
 <img width="616" height="503" alt="Screenshot 2026-06-22 123635" src="https://github.com/user-attachments/assets/3d851928-ac73-41d7-9b91-44272036c088" />
+
 * Explore graph relationships interactively.
 * Search entities and connections.
 * Analyze document knowledge structures.
