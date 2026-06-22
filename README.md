@@ -4,6 +4,7 @@
 
 ---
 
+
 ## ✨ Features
 
 ### 📄 Hybrid Document Processing
@@ -34,7 +35,7 @@
 
 ### 🧬 Automated Knowledge Graph Generation
 
-* Uses **Google Gemini 2.5 Flash** to analyze document chunks.
+* Uses **Google Gemini 3.5 Flash** to analyze document chunks.
 
 * Extracts semantic triples:
 
@@ -284,7 +285,7 @@ The application will open automatically in your browser.
 ---
 
 ## 🌐 KG Visualizer
-
+<img width="616" height="503" alt="Screenshot 2026-06-22 123635" src="https://github.com/user-attachments/assets/3d851928-ac73-41d7-9b91-44272036c088" />
 * Explore graph relationships interactively.
 * Search entities and connections.
 * Analyze document knowledge structures.
