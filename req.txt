@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain_text_splitters
+numpy
+pandas
+faiss-cpu
+plotly
+pytesseract
+pdf2image
+pypdf
+scikit-learn
+pyvis
+langchain-huggingface
+sentence-transformers
+python-dotenv
