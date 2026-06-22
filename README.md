@@ -98,7 +98,7 @@ PyVis Visualization
 | --------------- | --------------------------------- |
 | Frontend        | Streamlit, Plotly, PyVis          |
 | AI Models       | HuggingFace Sentence Transformers |
-| LLM             | Google Gemini 2.5 Flash           |
+| LLM             | Google Gemini 3.5 Flash           |
 | Framework       | LangChain                         |
 | Vector Database | FAISS                             |
 | OCR             | Tesseract OCR                     |
@@ -159,7 +159,7 @@ brew install poppler
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/VectorGraph-Engine.git
+git clone https://github.com/TusharSaini999/VectorGraph-Engine.git
 cd VectorGraph-Engine
 ```
 
@@ -329,12 +329,11 @@ See the `LICENSE` file for more information.
 
 # 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome.
+Contributions, issues, and feature requests are welcome!
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a pull request
+Please see our [Contributing Guidelines](CONTRIBUTING.md) for how to get started. By participating in this project, you agree to abide by its [Code of Conduct](CODE_OF_CONDUCT.md).
+
+For security-related issues, please review our [Security Policy](SECURITY.md).
 
 ---
 
